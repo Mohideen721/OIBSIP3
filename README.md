@@ -2,6 +2,12 @@ Oasis Infobyte Internship Level-2 Task-2
 
 This is a simple tribute webpage of APJ Abdul Kalam Sir.
 
+# BUILT WITH
+HTML
+
+CSS
+
+
 # WEBPAGE SCREENSHOT
 ![Screenshot (124)](https://github.com/Mohideen721/OIBSIP3/assets/113091477/f2b396a8-8e63-41c3-a89a-2b3616b1e734)
 
